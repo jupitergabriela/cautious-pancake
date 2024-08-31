@@ -9,7 +9,6 @@ programa
 		//Verifique se o número digitado é igual a 10, caso seja, escreva
 		//a mensagem: O NÚMERO É IGUAL A 10!
 
-
 		//Declaração de Variáveis
 		inteiro valor
 
