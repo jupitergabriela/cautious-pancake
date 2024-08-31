@@ -4,13 +4,7 @@ programa
 	
 	funcao inicio()
 	{
-		//Elabore um algoritmo para ler um valor e esrever a mensagem:
-		// É MAIOR QUE 10! se o valor lido for maior que 10, caso 
-		// contrário escrever NÃO É MAIOR QUE 10!
-		//Verifique se o número digitado é igual a 10, caso seja, escreva
-		//a mensagem: O NÚMERO É IGUAL A 10!
-
-
+		
 		//Declaração de Variáveis
 		cadeia nome
 		real nota1, nota2, nota3, media
@@ -46,13 +40,3 @@ programa
 }
 
 /* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 785; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
